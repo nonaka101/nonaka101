@@ -19,10 +19,10 @@
 
 <img
   alt="HTML CSS JavaScript MySQL PHP WordPress"
-  src="https://skillicons.dev/icons?i=html,css,js,mysql,php,wordpress">
+  src="https://skillicons.dev/icons?i=html,css,js,java,php,wordpress,mysql,threejs,svg,figma&perline=6">
 
 ### その他
 
 <img
     alt="スキル一覧、Arduino Figma Git Github Linux Markdown Python ThreeJS VSCode"
-    src="https://skillicons.dev/icons?i=arduino,c,py,threejs,md,svg,figma,git,github,linux,vscode&perline=6">
+    src="https://skillicons.dev/icons?i=arduino,c,py,md,git,github,linux,vscode&perline=6">
