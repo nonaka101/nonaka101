@@ -19,7 +19,7 @@
 
 <img
   alt="HTML CSS JavaScript MySQL PHP WordPress"
-  src="https://skillicons.dev/icons?i=html,css,js,java,php,wordpress,mysql,threejs,svg,figma&perline=6">
+  src="https://skillicons.dev/icons?i=html,css,js,java,php,wordpress,mysql,threejs,svg,figma,react&perline=6">
 
 ### その他
 
